@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="menu_item1">Edit</string>
+    <string name="menu_item2">Save</string>
+    <string name="next_article">Next</string>
+    <string name="sort">Sort</string>
+    <string name="inner_join">Inner join</string>
+    <string name="sqlsort">Sort by sqlite</string>
+</resources>
